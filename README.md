@@ -1,6 +1,6 @@
-# Personal Professional Card Astro
+# Personal Professional Porfolio
 
-"Hi there!, I'm Brian. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
+"Hi there!, I'm Raghunandan. I hope this small template helps you gain visibility while you build great projects. Thank you for using it. I wish you success in everything you set out to do; you will surely achieve great things.
 
 You can help me by following me, giving a Star to the template, and sharing it so others can see and use it.
 
@@ -99,7 +99,7 @@ Make sure you have the following installed on your machine:
 1. **Clone the Template Repository**
 
     ```bash
-    https://github.com/alcarazbrian/professional-card-astro.git
+    https://github.com/raghu295/portfolio.git
     cd professional-card-astro
     ```
 
@@ -179,10 +179,3 @@ All commands are run from the root of the project, from a terminal:
 | `npm run dev`             | Starts local dev server at `localhost:4321`      |
 | `npm run build`           | Build your production site to `./dist/`          |
 
-## 👀 Want to learn more?
-
-Feel free to check [Astro documentation](https://docs.astro.build) or jump into [Astro Discord server](https://astro.build/chat).
-
-## Contact
-
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alcarazbrian)
